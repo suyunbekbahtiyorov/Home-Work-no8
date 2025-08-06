@@ -149,6 +149,7 @@ header{
     margin-top: 91px;
     padding-top: 97px;
     background-color: #F1D3B9;
+    padding-bottom: 69px;
 }
 
 .card_2{
@@ -188,7 +189,7 @@ header{
 }
 
 #hero_6{
-    padding-bottom: 40px;
+    padding-bottom: 68px;
 }
 
 .lists{
@@ -222,6 +223,8 @@ header{
     border: 2px, solid, #B5614D;
     text-align: end;
     padding-right: 7px;
+    font-size: 13px;
+    color: #B45F4D;
 }
 
 .ft_line{
